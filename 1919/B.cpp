@@ -1,4 +1,4 @@
-// 1919B
+// 1919B Plus-Minus Split
 
 #include <iostream>
 #include <stack>
